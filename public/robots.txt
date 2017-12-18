@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: /sethmacleod/dimension.git/sitemap.xml
